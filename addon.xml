@@ -7,13 +7,14 @@
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" version="2.25.1" />
         <import addon="script.module.beautifulsoup4" version="4.8.2"/>
+        <import addon="script.module.pyppeteer" version="1.0.2"/>
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en_gb">This library intends to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible.</summary>
 		<summary lang="ru_RU">Эта библиотека призвана сделать синтаксический анализ HTML (например, просмотр веб-страниц) максимально простым и интуитивно понятным.</summary>
-		<summary lang="uk_UA">Selenium автоматизація браузерів.</summary>
+		<summary lang="uk_UA">Ця бібліотека має на меті зробити аналіз HTML (наприклад, очищення веб-сайтів) якомога простим та інтуїтивно зрозумілим.</summary>
 		<description lang="en_gb">This library intends to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible.</description>
 		<description lang="ru_RU">Эта библиотека призвана сделать синтаксический анализ HTML (например, просмотр веб-страниц) максимально простым и интуитивно понятным.</description>
 		<description lang="uk_UA">Ця бібліотека має на меті зробити аналіз HTML (наприклад, очищення веб-сайтів) якомога простим та інтуїтивно зрозумілим.</description>
