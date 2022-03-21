@@ -19,7 +19,6 @@
 		<description lang="ru_RU">Эта библиотека призвана сделать синтаксический анализ HTML (например, просмотр веб-страниц) максимально простым и интуитивно понятным.</description>
 		<description lang="uk_UA">Ця бібліотека має на меті зробити аналіз HTML (наприклад, очищення веб-сайтів) якомога простим та інтуїтивно зрозумілим.</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<platform>all</platform>
 		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/script.module.requests-html.git</source>
 		<assets>
