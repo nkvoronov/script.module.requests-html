@@ -7,6 +7,10 @@
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" version="2.25.1" />
         <import addon="script.module.pyquery" version="1.4.3" />
+        <import addon="script.module.fake-useragent" version="0.1.11" />
+        <import addon="script.module.parse" version="1.19.0" />
+        <import addon="script.module.beautifulsoup4" version="4.9.3" />
+        <import addon="script.module.w3lib" version="1.22.0" />
         <import addon="script.module.pyppeteer" version="1.0.2"/>
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />

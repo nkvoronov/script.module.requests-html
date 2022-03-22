@@ -1,7 +1,7 @@
 requests +
 pyquery +
-fake-useragent
-parse
-bs4
-w3lib
+fake-useragent +
+parse +
+bs4 - beautifulsoup4 +
+w3lib +
 pyppeteer>=0.0.14 +
